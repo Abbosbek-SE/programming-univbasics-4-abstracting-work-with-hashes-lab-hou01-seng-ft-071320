@@ -9,4 +9,6 @@ def read_from_hash(hash, key)
     return nil 
 end
 
-def 
+def update_counting_hash
+  
+end
